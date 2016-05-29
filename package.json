@@ -1,0 +1,19 @@
+{
+  "name": "microlib-utils",
+  "version": "1.0.0",
+  "description": "Utility libary for other MicroLib libraries.",
+  "main": "src/utils.microlib.js",
+  "keywords": [
+    "utils",
+    "micro",
+    "lightweight"
+  ],
+  "scripts": {
+    "lint": "jshint ./src/utils.microlib.js"
+  },
+  "author": "Thomas Erbe <vizuaalog@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jshint": "^2.9.2"
+  }
+}
