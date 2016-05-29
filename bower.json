@@ -1,0 +1,22 @@
+{
+  "name": "microlib-utils",
+  "description": "Utility libary for other MicroLib libraries.",
+  "main": "src/utils.microlib.js",
+  "authors": [
+    "Thomas Erbe <vizuaalog@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "utils",
+    "micro",
+    "lightweight"
+  ],
+  "homepage": "https://github.com/VizuaaLOG/MicroLib-Utils",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
